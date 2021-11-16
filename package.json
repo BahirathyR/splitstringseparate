@@ -1,0 +1,11 @@
+{
+  "name": "splitstringseparate",
+  "version": "1.0.0",
+  "description": "seperate string alphabets,number and symbols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bahirathy",
+  "license": "ISC"
+}
